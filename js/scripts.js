@@ -9,26 +9,3 @@ $(document).ready(function(){
     });
   });
 });
-
-//
-// $(document).ready(function() {
-//   var elements = ["h1", "p", "img"];
-//   // var index = elements.indexOf();
-//   // var heading = elements.indexOf("h1");
-//
-//   elements.forEach((element)click.function(element) {
-//     alert("This is a" + element + ".");
-//   });
-
-  // $("h1").click(function() {
-  //   alert("This is a header.");
-  // });
-  //
-  // $("p").click(function() {
-  //   alert("This is a paragraph.");
-  // });
-  //
-  // $("img").click(function() {
-  //   alert("This is an image.");
-  // });
-// });
